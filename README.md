@@ -163,6 +163,30 @@ For each circuit, record:
 ## 7. Expected Results (drop the screenshots of each equations circuit )
 
 
+F1.
+<img width="921" height="468" alt="image" src="https://github.com/user-attachments/assets/3547734a-35e8-428b-a630-5b8b7aba4229" />
+
+F2.
+<img width="915" height="472" alt="image" src="https://github.com/user-attachments/assets/fb41e6bf-3f81-44ff-8d6d-8c768c03e9ab" />
+
+F3.
+<img width="911" height="420" alt="image" src="https://github.com/user-attachments/assets/90bf62c9-6248-4027-9e51-1c44c946a5a0" />
+F4.
+<img width="910" height="463" alt="image" src="https://github.com/user-attachments/assets/6d898fc3-91e1-4f03-bfda-4e3511d78092" />
+
+F5.
+<img width="917" height="442" alt="image" src="https://github.com/user-attachments/assets/1681e491-8bca-4d8c-acd0-04e6739d40ed" />
+
+F6.
+
+<img width="917" height="500" alt="image" src="https://github.com/user-attachments/assets/1f2fbcb0-6fdb-4fe8-9498-b3215cbcfc7a" />
+
+F7.
+<img width="921" height="501" alt="image" src="https://github.com/user-attachments/assets/2b1d248b-a51c-4806-b5d2-9f14f5586712" />
+
+F8.
+<img width="910" height="453" alt="image" src="https://github.com/user-attachments/assets/70c1fcfa-b910-40fd-adb2-6e667a44f6e5" />
+
 
 
  

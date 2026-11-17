@@ -444,27 +444,32 @@ F1.
 <img width="921" height="468" alt="image" src="https://github.com/user-attachments/assets/ff2dcf57-93c3-46d8-9082-e6e1199d7129" />
 
 F2.
+
 <img width="915" height="472" alt="image" src="https://github.com/user-attachments/assets/d2a1cdb1-be45-42ab-84da-e324e35c074a" />
+
 F3.
+
 <img width="911" height="420" alt="image" src="https://github.com/user-attachments/assets/da30d4f9-7bf9-4726-836b-758e3b213f96" />
+
 F4.
+
 <img width="910" height="463" alt="image" src="https://github.com/user-attachments/assets/ae481f8d-968d-49f4-b445-d1ee69346f25" />
 
 F5.
+
 <img width="917" height="442" alt="image" src="https://github.com/user-attachments/assets/4b375969-5ae7-484a-a647-2663529ac78e" />
+
 F6.
+
 <img width="917" height="500" alt="image" src="https://github.com/user-attachments/assets/bf6961db-9063-4a5c-8f5e-88e219524af5" />
 
 F7.
+
 <img width="921" height="501" alt="image" src="https://github.com/user-attachments/assets/9e513023-4370-4ad6-95d5-f84f7cbae488" />
 
 F8.
+
 <img width="910" height="453" alt="image" src="https://github.com/user-attachments/assets/f534effd-f548-44dc-aaea-f385ad9de134" />
-
-
-
-
-
 
  
 ## 8. Result
